@@ -1,4 +1,4 @@
-# This is a Documentation of Learning GIT HUB
+# This is a Documentation of Learning JAVASCRIPT
 ## Topic !: Working with Window.object
 ### How to show alert
 
