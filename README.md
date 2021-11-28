@@ -5,5 +5,5 @@
 ```
 window.alert("HELLO VINAY");
 
-```
-![images](https://user-images.githubusercontent.com/95132381/143727878-13abc99e-15dc-4037-a495-72227ff9b28e.png)
+``` 
+![App Screenshot](https://i.imgur.com/lhjuc2N.jpg)
